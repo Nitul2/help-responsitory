@@ -1,0 +1,68 @@
+.font {
+    font-family: 'Courgette', cursive;
+
+}
+
+.header-Bg-img {
+    background-image: url(jason-charters-IorqsMssQH0-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+.img {
+    width: 264px;
+    height: 203px;
+}
+
+.button {
+    Width: 221px;
+    Height: 42px;
+
+}
+
+
+
+.first {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 5px;
+
+
+}
+
+.second {
+    margin: 24px;
+    Width: 264px;
+    Height: 371px;
+    border: 1px solid red;
+
+}
+
+.second-div {
+    width: 264px;
+    Height: 550px;
+    margin: 24px;
+    border: 1px solid red;
+}
+
+.input {
+    width: 121px;
+    height: 42px;
+    border: 1px solid white;
+    margin: 20px 20px 0px 20px;
+}
+
+.btn {
+    height: 42px;
+    width: 90%;
+    margin-left: 13px;
+
+}
+
+.select {
+    position: relative;
+    overflow: hidden;
+    margin-right: 20px;
+}
